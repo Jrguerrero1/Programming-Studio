@@ -1,0 +1,21 @@
+-------------------------------------------------------------------------------
+Kalah ( Mancala )
+
+
+There are 12 holes called houses where there will be 4 tokens in each hole. Only two players can play at a time. There are two special holes one on each side. They are called the players Kahlah. The point of the game is to have more tokens than the other plater at the end when there are no more tokens at one side. 
+
+-------------------------------------------------------------------------------
+
+Rules: 
+
+1) A player can only move the tokens from the six houses that they control. When doing so a player gets all the tokens from the house and distributes one rock to each house in a counterclockwise motion.
+
+2) If a player distributes the last rock into their Kahah then the player can go again until they do not.
+
+3) If a player takes from a house that only has one rock and places into the next house that is completely empty the player can take all the tokens from the house that is directly across from it.
+
+4) One there are no more tokens in a players side the game is over and the remaining tokens go to the other players Kalah.
+
+5) The winner is determined by how many tokens they have in their Kalah at the end.
+
+-------------------------------------------------------------------------------
